@@ -1,4 +1,4 @@
-![Альт-текст](https://gibbonsfornevada.com/img/linux/git-repo-for-dotfiles-clone-to-homefolder.png)
+![картинка не грузится](https://gibbonsfornevada.com/img/linux/git-repo-for-dotfiles-clone-to-homefolder.png)
 # **Инструкция для работы с Git и удалёнными репозиториями** 
 
 ## Что такое Git?
@@ -35,3 +35,5 @@
 
 ### Удаление веток
 Для удаления ветки ввести команду *__==git branch -d name branch==__*
+
+![файл перемещен](chill.jpg)
