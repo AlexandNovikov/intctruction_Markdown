@@ -1,6 +1,7 @@
 ![картинка не грузится](https://gibbonsfornevada.com/img/linux/git-repo-for-dotfiles-clone-to-homefolder.png)
 #  **<font color = AF2591> Инструкция для работы с Git и удалёнными репозиториями** 
 
+
 Для работы с удаленными репозиториями нужно зарегистрироваться на GitHub
 
 ## Что такое Git?
